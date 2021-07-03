@@ -2,5 +2,5 @@ pyrogram
 TgCrypto
 python-dotenv
 hachoir
-ffmpeg-python
-ffprobe-python
+ffmpeg
+ffprobe
