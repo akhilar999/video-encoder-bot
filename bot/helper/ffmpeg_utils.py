@@ -1,8 +1,10 @@
 import os
 import sys
+sys.path.append('/path/to/ffmpeg')
 import json
 import time
 import ffmpeg
+import ffprobe
 from subprocess import call, check_output
 from hachoir.metadata import extractMetadata
 from hachoir.parser import createParser
