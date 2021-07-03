@@ -16,6 +16,7 @@ To change the ffmpeg profile edit them in [ffmpeg_utils.py](/bot/helper/ffmpeg_u
 Install the required Python Modules in your machine.
 ```sh
 apt-get -qq install ffmpeg
+pip3 install ffprobe
 pip3 install -r requirements.txt
 ```
 ### Deployment
