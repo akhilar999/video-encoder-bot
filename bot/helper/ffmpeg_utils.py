@@ -1,6 +1,5 @@
 import os
 import sys
-sys.path.append('/path/to/ffmpeg')
 import json
 import time
 import ffmpeg
